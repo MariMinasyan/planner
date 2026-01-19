@@ -1,5 +1,6 @@
 # Planner
 Weekly planner desktop application
+
 **Author:**
 Mari Minasyan
 American University of Armenia
