@@ -3,7 +3,9 @@ Weekly planner desktop application
 
 **Author:**
 Mari Minasyan
-American University of Armenia
+
+American University of Armenia 
+
 Spring 2025
 
 ## Project Overview
@@ -11,9 +13,11 @@ This project is a weekly planner desktop application designed to help marketing 
 The workweek consists of Monday through Friday, each day divided into two discrete time slots:
 - Morning
 - Afternoon
+
 The application supports both:
 - Command-Line Interface (CLI)
 - Graphical User Interface (GUI)
+
 and follows object-oriented design principles
 
 ## Features
